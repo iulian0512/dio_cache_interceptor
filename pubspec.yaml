@@ -11,21 +11,17 @@ environment:
 dependencies:
   # https://pub.dev/packages/dio
   dio: ^4.0.0
-  # https://pub.dev/packages/moor
-  moor: ^4.1.0
   # https://pub.dev/packages/path
   path: ^1.8.0
   # https://pub.dev/packages/uuid
   uuid: ^3.0.1
+  hive: ^2.0.2
+  hive_flutter: ^1.0.0
 
 dev_dependencies:
-# https://pub.dev/packages/moor_generator
-  moor_generator: ^4.2.1
   # https://pub.dev/packages/build_runner
   build_runner: ^1.12.2
   # https://pub.dev/packages/pedantic
   pedantic: ^1.11.0
-  # https://pub.dev/packages/sqlite3
-  sqlite3: ^1.0.0
   # https://pub.dev/packages/test
   test: ^1.16.8
